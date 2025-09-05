@@ -39,12 +39,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://www.verknipt.org
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Verknipt   
+  <img src="/readme-images/verknip1_pagina2.png" width="375px" alt="Afbeelding van de website verknipt">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="/readme-images/verknipt_pagina1.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
