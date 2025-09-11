@@ -39,12 +39,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://www.verknipt.org
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Verknipt   
-  <img src="/readme-images/verknip1_pagina2.png" width="375px" alt="Afbeelding van de website verknipt">
+  Home pagina Verknipt  
+  <img src="/readme-images/verknipt_pagina1.png" width="375px" alt="Afbeelding van de website verknipt home pagina">
+  
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="/readme-images/verknipt_pagina1.png" width="375px" alt="omschrijving van de pagina">
+  Merchandise pagina
+  <img src="/readme-images/verknip1_pagina2.png" width="375px" alt="Afbeelding van de website verknipt Merchandise pagina ">
  
 </details>
 
@@ -56,8 +57,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
-
+  - alle knoppen hebben paarse kleur
+  - Heel veel rode validate
+  - kan niet alle knoppen navigeren met tab
+  - geen hover
+  - geen h1 
+  - alleen maar h2 
+  - er staat de tekst in een afbeelding 
+  - kon niet testen met media om dat er geen video of animatie zijn
+  - geen focus states
+  - geen darkmode
+  - website gebruikt geen :selection colors
 </details>
 
 
@@ -68,13 +78,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="/readme-images/bd_1.png" width="375px" alt="breakdown van de hele pagina1">
+  <img src="/readme-images/bd_2.png" width="375px" alt="breakdown van de hele pagina2">
 
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  ### dynamisch deel (afbeelingen die naar links en rechts kunnen. Ze zijn ook links naar andere pagina): 
+  <img src="/readme-images/bd_3.png" width="375px" alt="afbeelingen die naar links en rechts kunnen">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
