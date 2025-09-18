@@ -97,9 +97,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
+  Wat ik lastig vond was dat ik niet veel Engelse woorden die om een code te schrijven. Ik moest veel opzoeken totdat het werkt. Voor mijn voortganggesprek heb ik alleen een begin van mijn gekozen website omdat ik vooral bezig met oefeningen was. Wat ik moeilijk vond aan mijn gekozen webstie is de hamburger manu. Daarnaast vond ik het zo raar dat de afbeeldingen van mijn live versie niet werkt terwijl de offline versie wel werkt.
+<img src="/readme-images/voor_voortgang1.png" width="375px" alt="website offline">
+<img src="/readme-images/voor_voortgang2.png" width="375px" alt="website online">
   ### Agenda voor meeting
   samen met je groepje opstellen
 

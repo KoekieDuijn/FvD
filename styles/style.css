@@ -36,45 +36,135 @@
 
 /* jouw code */
 
-body {
-	display: flex;
-  	flex-direction: column;
+main {
+	padding-inline: 1rem; 
 }
 
-h1 {
-	font-size: 4em;
-	font-weight: 900;
-	font-style: normal;
-	text-transform:uppercase;
+header {
+	background-color: black;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	position: sticky; /*deze horen bijelkaar */
+	top: 0;           /*deze horen bijelkaar */
+	padding: 0em 1em;
 	
+  }
+
+header > button { 
+	background: none;
+	border: none;
+	display: block;   /* heel belangrijk! */
+  /* cursor: pointer; */
+}
+
+header img {
+ 		 height: 20px; 
+}
+
+nav {
+	background-color: black;
+	font-size: 1.5em;
+	position: fixed;
+  	top: 0;
+  	right: 0;
+  	bottom: 0;
+  	left: 0;
+	line-height: 3em;
+	translate: 110% 0%;
+  	transition: 0.3s;
+	display: flex;
+	flex-direction: column;
+	padding: 1.5em 1em 0em 0em;
+	
+}
+
+nav.toonMenu {
+   translate: 0% 0%;
+  }
+
+nav button {
+	align-self: flex-end; 
+	background: none;
+	border: none;
+}
+
+
+
+  nav a {
+	color: white;
+	text-decoration: none;
+
+  }
+  
+  nav a:hover {
+	color: rgb(108, 44, 236);
+	transition: 0.1s;
+  }
+
+
+h2	{
+	font-size: 2em;
+}
+
+h3 {
+	font-size: 1.2em;
 }
 
 p:first-of-type {
 	text-transform: uppercase;
 	order: 1;
 	text-align: center;
-	padding-top: 2em;
-	font-size: 1.5em
+	font-size: 0.9em
 	
   }
 
-h2{
-	font-size: 3em;
-}
-
-h3 {
-	font-size: 2em;
-}
-
-a {
+main a {
 	background-color: rgb(108, 44, 236);
 	padding: 1em;
-	margin: 1em;
-	font-size: 2em;
+	color: white;
+	text-decoration: none;
+}
+
+
+ul {
+	list-style-type: none;
 }
 
 img {
-	width: 700px;
-	height: auto;
-  }
+	height: 300px;
+}
   
+/****************************************************************/
+/* styling voor de header als de browser minimaal 38em breed is */
+/****************************************************************/
+@media (min-width:38em) {
+	header > button {
+	  display: none;
+	}
+   }
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
